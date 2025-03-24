@@ -1,0 +1,30 @@
+# virtual envelopment
+venv
+*.venv
+
+# temp
+.*
+
+#git
+!.gitignore
+
+#any file
+*.doc
+*.rtf
+*.docx
+*.excel
+*.pdf
+*.log
+
+#json
+config.json
+config.yaml
+config.ini
+secrets.json
+auth.json
+
+#keys
+key.*
+keys.*
+*.key
+*.bin
